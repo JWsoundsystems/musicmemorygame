@@ -1,0 +1,15 @@
+.title {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0px;
+    position: relative;
+    top: 130px;
+  }
+  
+  .scoreSummary{
+    width: 100%;
+    text-align: right;
+    margin-bottom: 20px;	
+  }
+  
+  
